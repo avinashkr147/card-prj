@@ -1,0 +1,17 @@
+<style>
+body{
+    background-color:rgb(128, 128, 128);
+}
+.container{
+    background-color: #fff;
+    width: 270px;
+    height: 465px;
+    border-radius: 9px;
+
+}
+.image img{
+    width: 200px;
+    height: 100px;
+}
+
+</style>
